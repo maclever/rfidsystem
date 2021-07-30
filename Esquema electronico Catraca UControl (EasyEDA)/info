@@ -1,0 +1,2450 @@
+{
+  "uuid": "9a48abc553d2225607fb679ed63b756e",
+  "path": "Offline/Catraca UControl 2021",
+  "name": "Catraca UControl 2021",
+  "content": "",
+  "created_at": "2021-07-08 10:40:32",
+  "updated_at": "2021-07-11 16:28:29",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d230a995c52d7bde4ff860d56a400cc3",
+      "title": "Arduino Mega 2560",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "8X1F-H8.5",
+          5,
+          "1X08",
+          "ADCH,ADCL,COMMUNICATION,POWER,PWML",
+          {
+            "puuid": "975735978f7b4becb9c6a02a59c3ddb1",
+            "uuid": ""
+          }
+        ],
+        [
+          "0.1UF",
+          10,
+          "R0603-ROUND",
+          "C1,C3,C4,C5,C6,C7,C9,C12,C13,C15",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1UF",
+          2,
+          "R0603-ROUND",
+          "C2,C14",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "22PF",
+          3,
+          "R0603-ROUND",
+          "C8,C10,C11",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "M7",
+          1,
+          "SMB",
+          "D1",
+          {
+            "puuid": "7bb6777c50454668805bf72cb9681e3b",
+            "uuid": ""
+          }
+        ],
+        [
+          "CD1206-S01575",
+          2,
+          "MINIMELF",
+          "D2,D3",
+          {
+            "puuid": "e1cc586a4d754810843c9a2e4ce7e5f0",
+            "uuid": ""
+          }
+        ],
+        [
+          "MF-MSMF050-2 500MA",
+          1,
+          "L1812",
+          "F1",
+          {
+            "puuid": "8cb0386b7603406d9332ea7e6a68816d",
+            "uuid": ""
+          }
+        ],
+        [
+          "SJ",
+          2,
+          "SJ",
+          "GROUND,RESET-EN",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "NCP1117ST50T3G",
+          1,
+          "SOT223",
+          "IC1",
+          {
+            "puuid": "18800f7636494f0f8573150b0a5b0cfe",
+            "uuid": ""
+          }
+        ],
+        [
+          "LP2985-33DBVR",
+          1,
+          "SOT23-DBV",
+          "IC3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "3X2M",
+          2,
+          "2X03",
+          "ICSP,ICSP1",
+          {
+            "puuid": "7f5fa180e6d14230b27e8b3465237b46",
+            "uuid": ""
+          }
+        ],
+        [
+          "10X1F-H8.5",
+          1,
+          "1X10",
+          "JP1",
+          {
+            "puuid": "18c26a74d25c405da3ec650532de5bbd",
+            "uuid": ""
+          }
+        ],
+        [
+          "2X2M - NM",
+          1,
+          "2X02",
+          "JP2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "YELLOW",
+          3,
+          "CHIP-LED0805",
+          "L,RX,TX",
+          {
+            "puuid": "a6efeb54eecb4b1eb2796b6b04028e1a",
+            "uuid": ""
+          }
+        ],
+        [
+          "BLM21",
+          1,
+          "LP0805",
+          "L1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "CHIP-LED0805",
+          "ON",
+          {
+            "puuid": "a6efeb54eecb4b1eb2796b6b04028e1a",
+            "uuid": ""
+          }
+        ],
+        [
+          "47UF",
+          1,
+          "PANASONIC_D",
+          "PC1",
+          {
+            "puuid": "d96418c05b1c421e960d22862dcfda7b",
+            "uuid": ""
+          }
+        ],
+        [
+          "47U",
+          1,
+          "PANASONIC_D",
+          "PC2",
+          {
+            "puuid": "d96418c05b1c421e960d22862dcfda7b",
+            "uuid": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603-ROUND",
+          "R1,R3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "TS42031-160R-TR-7260",
+          1,
+          "TS42",
+          "RESET",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "FDN340P",
+          1,
+          "SOT-23",
+          "T1",
+          {
+            "puuid": "bebf453b0e64439b88070f64783c4e0a",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA2560",
+          1,
+          "TQFP100",
+          "U1",
+          {
+            "puuid": "f3d6a9aa8f6847fa870bd51e1d192e72",
+            "uuid": ""
+          }
+        ],
+        [
+          "POWERSUPPLY_DC21MM",
+          1,
+          "POWERSUPPLY_DC-21MM",
+          "U2",
+          {
+            "puuid": "36afc7e30c3d427d8c5b5301659b02f3",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA16U2",
+          1,
+          "QFN-32",
+          "U5",
+          {
+            "puuid": "4b6657e67103494382b74261909792ee",
+            "uuid": ""
+          }
+        ],
+        [
+          "USB-B_TH",
+          1,
+          "PN61729",
+          "X1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "18X2F-H8.5",
+          1,
+          "2X18",
+          "XIO",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RESONATOR",
+          1,
+          "RESONATOR",
+          "Y1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "16MHZ",
+          1,
+          "QS",
+          "Y2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "CG0603MLC-05E",
+          2,
+          "CTCN0603",
+          "Z1,Z2",
+          {
+            "puuid": "215e5f304cb8498cbdc0556f8d668fb8",
+            "uuid": ""
+          }
+        ],
+        [
+          "LMV358IDGKR",
+          1,
+          "MSOP08",
+          "IC2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1K",
+          2,
+          "0603-ARC",
+          "RN1,RN7",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "10K",
+          2,
+          "0603-ARC",
+          "RN2,RN3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "22R",
+          1,
+          "0603-ARC",
+          "RN4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1u",
+          14,
+          "C1",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "2593d6b50646468aa0f4210426aa1d27",
+            "uuid": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED3MM",
+          "D1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "97ce2590a227457c91ada573d82c648e",
+            "uuid": ""
+          }
+        ],
+        [
+          "1m",
+          3,
+          "INDUCTOR-1206",
+          "L1,L2,L3",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "84c26c8755be4c4494ab48c9384f98fc",
+            "uuid": ""
+          }
+        ],
+        [
+          "SIP8",
+          1,
+          "HDR1X8",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "34d577eba5e3478a823f52d27ff22137",
+            "uuid": ""
+          }
+        ],
+        [
+          "XTALfast",
+          1,
+          "1X02",
+          "Q1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "632485ffe2624eb487e86c74c14a39e4",
+            "uuid": ""
+          }
+        ],
+        [
+          "1k",
+          7,
+          "R3",
+          "R1,R2,R3,R4,R5,R6,R7",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "e90532859c364560b2abf6f882e09c13",
+            "uuid": ""
+          }
+        ],
+        [
+          "MFRC522",
+          1,
+          "DIP",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "ed535c8fe56245c1a5180026fdcb7303"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H1",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "LED-TH-3mm_R",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "3 pin connector big pad",
+          1,
+          "3 PIN CONNECTOR BIG PAD",
+          "P6",
+          {
+            "BOM_Supplier Part": "C48458",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "1.5T-3PHorizontal patch connector",
+            "puuid": "bd3f5a95481841e09364f254e87d63cf",
+            "uuid": "e8eecceea29a496a8f21560ad16485c2"
+          }
+        ],
+        [
+          "BC547C",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C713614",
+            "BOM_Manufacturer": "LGE",
+            "BOM_Manufacturer Part": "BC547C",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "fc217faf64a940a397750f89d4f53ff3"
+          }
+        ],
+        [
+          "1K",
+          2,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R1,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "SRD-5VDC-SL-C",
+          1,
+          "RELAY-SL-SRD",
+          "RELAY3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SONGLE",
+            "BOM_Manufacturer Part": "SRD-12VDC-SL-C",
+            "BOM_Supplier Part": "C30431",
+            "puuid": "edbc8ba0a0024c4ba46922fc267d35c2",
+            "uuid": "ee6ef103ed4bbe292b556d36588e703a"
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C1,C5,C8,C9,C10,C11,C12,C15,C17",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "8.2pF",
+          2,
+          "C0603",
+          "C2,C3",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "1000v_1nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": ""
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0805",
+          "C6,C14,C18",
+          {
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": ""
+          }
+        ],
+        [
+          "10V_10uF",
+          1,
+          "AVX-A",
+          "C7",
+          {
+            "puuid": "3a6008d0828b4e9ebc1904b05b4dfd0b",
+            "uuid": ""
+          }
+        ],
+        [
+          "10V_22uF",
+          2,
+          "AVX-B",
+          "C13,C16",
+          {
+            "puuid": "f7b133193bfc460697b24406578a130d",
+            "uuid": ""
+          }
+        ],
+        [
+          "1uF",
+          6,
+          "C0805",
+          "C19,C20,C21,C22,C23,C24",
+          {
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": ""
+          }
+        ],
+        [
+          "M7",
+          1,
+          "D2010",
+          "D1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RED",
+          1,
+          "LED-0603",
+          "D2",
+          {
+            "puuid": "2ada8f4ae55543e0922c8ee62e571dd5",
+            "uuid": ""
+          }
+        ],
+        [
+          "1N4148WS",
+          1,
+          "SOD323",
+          "D3",
+          {
+            "puuid": "078f429fcbe342c080aa62900adde8f4",
+            "uuid": ""
+          }
+        ],
+        [
+          "TWIG-4P-2.0",
+          2,
+          "4P-2.0",
+          "I2C,UART",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "SD card holder",
+          1,
+          "9P-SMD-W-RING",
+          "J1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RJ45-MJ88-BX11-RVSL2",
+          1,
+          "RJ45-MJ88-BX11-RVSL2",
+          "J8",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "DNP",
+          1,
+          "2P-SMD-1.78X1.27",
+          "P1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "PAD-MARK",
+          2,
+          "ROUND-MARK-1.0",
+          "P2,P3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "DNP",
+          2,
+          "1P-6535MIL",
+          "PWDN,W!INT",
+          {
+            "puuid": "5ff7b5abacc445c9a8f3481950726fcb",
+            "uuid": ""
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "LED-0603",
+          "PWR",
+          {
+            "puuid": "2ada8f4ae55543e0922c8ee62e571dd5",
+            "uuid": ""
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R0603",
+          "R1",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "10K",
+          7,
+          "R0603",
+          "R2,R4,R5,R6,R7,R8,R9",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "47k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "1k",
+          6,
+          "R0603",
+          "R10,R16,R17,R18,R24,R25",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "3.3k",
+          5,
+          "R0603",
+          "R11,R12,R13,R15,R27",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "28.7K1%",
+          1,
+          "R0603",
+          "R14",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "75",
+          2,
+          "R0603",
+          "R19,R26",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "49.9_1%",
+          4,
+          "R0603",
+          "R20,R21,R22,R23",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "R*",
+          1,
+          "R0603",
+          "R28",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "BUTTON_4P_SMD",
+          1,
+          "4P-SMD-7X3.5X3.5",
+          "SW1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "ARDUINO",
+          1,
+          "ARDUINO",
+          "U1",
+          {
+            "puuid": "c554704952324a099b7a65ca188c3210",
+            "uuid": ""
+          }
+        ],
+        [
+          "CJ1117-3.3",
+          1,
+          "SOT-223",
+          "U3",
+          {
+            "puuid": "0b0f7e179ede420a8af2a98a7bbdc039",
+            "uuid": ""
+          }
+        ],
+        [
+          "HX1198NL",
+          1,
+          "SOIC16-9.53",
+          "U4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "W5200",
+          1,
+          "QFN48",
+          "U5",
+          {
+            "puuid": "c2c66946416a4bf4856d53189bbc5732",
+            "uuid": ""
+          }
+        ],
+        [
+          "25MHz",
+          1,
+          "2P-SMD-5X3.2",
+          "X1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "74VHC125PW",
+          2,
+          "TSSOP14",
+          "U2,U6",
+          {
+            "puuid": "01e8359db5f04c73a2cb6ac7acd3db69",
+            "uuid": ""
+          }
+        ]
+      ],
+      "updateTime": 1626017309,
+      "createTime": 1625737234,
+      "histories": [],
+      "created_at": "2021-07-08 10:40:34",
+      "updated_at": "2021-07-11 16:28:29"
+    },
+    {
+      "uuid": "1fba4395e05d45de76b8277c2363a9df",
+      "title": "RFID",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "8X1F-H8.5",
+          5,
+          "1X08",
+          "ADCH,ADCL,COMMUNICATION,POWER,PWML",
+          {
+            "puuid": "975735978f7b4becb9c6a02a59c3ddb1",
+            "uuid": ""
+          }
+        ],
+        [
+          "0.1UF",
+          10,
+          "R0603-ROUND",
+          "C1,C3,C4,C5,C6,C7,C9,C12,C13,C15",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1UF",
+          2,
+          "R0603-ROUND",
+          "C2,C14",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "22PF",
+          3,
+          "R0603-ROUND",
+          "C8,C10,C11",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "M7",
+          1,
+          "SMB",
+          "D1",
+          {
+            "puuid": "7bb6777c50454668805bf72cb9681e3b",
+            "uuid": ""
+          }
+        ],
+        [
+          "CD1206-S01575",
+          2,
+          "MINIMELF",
+          "D2,D3",
+          {
+            "puuid": "e1cc586a4d754810843c9a2e4ce7e5f0",
+            "uuid": ""
+          }
+        ],
+        [
+          "MF-MSMF050-2 500MA",
+          1,
+          "L1812",
+          "F1",
+          {
+            "puuid": "8cb0386b7603406d9332ea7e6a68816d",
+            "uuid": ""
+          }
+        ],
+        [
+          "SJ",
+          2,
+          "SJ",
+          "GROUND,RESET-EN",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "NCP1117ST50T3G",
+          1,
+          "SOT223",
+          "IC1",
+          {
+            "puuid": "18800f7636494f0f8573150b0a5b0cfe",
+            "uuid": ""
+          }
+        ],
+        [
+          "LP2985-33DBVR",
+          1,
+          "SOT23-DBV",
+          "IC3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "3X2M",
+          2,
+          "2X03",
+          "ICSP,ICSP1",
+          {
+            "puuid": "7f5fa180e6d14230b27e8b3465237b46",
+            "uuid": ""
+          }
+        ],
+        [
+          "10X1F-H8.5",
+          1,
+          "1X10",
+          "JP1",
+          {
+            "puuid": "18c26a74d25c405da3ec650532de5bbd",
+            "uuid": ""
+          }
+        ],
+        [
+          "2X2M - NM",
+          1,
+          "2X02",
+          "JP2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "YELLOW",
+          3,
+          "CHIP-LED0805",
+          "L,RX,TX",
+          {
+            "puuid": "a6efeb54eecb4b1eb2796b6b04028e1a",
+            "uuid": ""
+          }
+        ],
+        [
+          "BLM21",
+          1,
+          "LP0805",
+          "L1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "CHIP-LED0805",
+          "ON",
+          {
+            "puuid": "a6efeb54eecb4b1eb2796b6b04028e1a",
+            "uuid": ""
+          }
+        ],
+        [
+          "47UF",
+          1,
+          "PANASONIC_D",
+          "PC1",
+          {
+            "puuid": "d96418c05b1c421e960d22862dcfda7b",
+            "uuid": ""
+          }
+        ],
+        [
+          "47U",
+          1,
+          "PANASONIC_D",
+          "PC2",
+          {
+            "puuid": "d96418c05b1c421e960d22862dcfda7b",
+            "uuid": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603-ROUND",
+          "R1,R3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "TS42031-160R-TR-7260",
+          1,
+          "TS42",
+          "RESET",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "FDN340P",
+          1,
+          "SOT-23",
+          "T1",
+          {
+            "puuid": "bebf453b0e64439b88070f64783c4e0a",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA2560",
+          1,
+          "TQFP100",
+          "U1",
+          {
+            "puuid": "f3d6a9aa8f6847fa870bd51e1d192e72",
+            "uuid": ""
+          }
+        ],
+        [
+          "POWERSUPPLY_DC21MM",
+          1,
+          "POWERSUPPLY_DC-21MM",
+          "U2",
+          {
+            "puuid": "36afc7e30c3d427d8c5b5301659b02f3",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA16U2",
+          1,
+          "QFN-32",
+          "U5",
+          {
+            "puuid": "4b6657e67103494382b74261909792ee",
+            "uuid": ""
+          }
+        ],
+        [
+          "USB-B_TH",
+          1,
+          "PN61729",
+          "X1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "18X2F-H8.5",
+          1,
+          "2X18",
+          "XIO",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RESONATOR",
+          1,
+          "RESONATOR",
+          "Y1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "16MHZ",
+          1,
+          "QS",
+          "Y2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "CG0603MLC-05E",
+          2,
+          "CTCN0603",
+          "Z1,Z2",
+          {
+            "puuid": "215e5f304cb8498cbdc0556f8d668fb8",
+            "uuid": ""
+          }
+        ],
+        [
+          "LMV358IDGKR",
+          1,
+          "MSOP08",
+          "IC2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1K",
+          2,
+          "0603-ARC",
+          "RN1,RN7",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "10K",
+          2,
+          "0603-ARC",
+          "RN2,RN3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "22R",
+          1,
+          "0603-ARC",
+          "RN4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1u",
+          14,
+          "C1",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "2593d6b50646468aa0f4210426aa1d27",
+            "uuid": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED3MM",
+          "D1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "97ce2590a227457c91ada573d82c648e",
+            "uuid": ""
+          }
+        ],
+        [
+          "1m",
+          3,
+          "INDUCTOR-1206",
+          "L1,L2,L3",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "84c26c8755be4c4494ab48c9384f98fc",
+            "uuid": ""
+          }
+        ],
+        [
+          "SIP8",
+          1,
+          "HDR1X8",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "34d577eba5e3478a823f52d27ff22137",
+            "uuid": ""
+          }
+        ],
+        [
+          "XTALfast",
+          1,
+          "1X02",
+          "Q1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "632485ffe2624eb487e86c74c14a39e4",
+            "uuid": ""
+          }
+        ],
+        [
+          "1k",
+          7,
+          "R3",
+          "R1,R2,R3,R4,R5,R6,R7",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "e90532859c364560b2abf6f882e09c13",
+            "uuid": ""
+          }
+        ],
+        [
+          "MFRC522",
+          1,
+          "DIP",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "ed535c8fe56245c1a5180026fdcb7303"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H1",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "LED-TH-3mm_R",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "3 pin connector big pad",
+          1,
+          "3 PIN CONNECTOR BIG PAD",
+          "P6",
+          {
+            "BOM_Supplier Part": "C48458",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "1.5T-3PHorizontal patch connector",
+            "puuid": "bd3f5a95481841e09364f254e87d63cf",
+            "uuid": "e8eecceea29a496a8f21560ad16485c2"
+          }
+        ],
+        [
+          "BC547C",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C713614",
+            "BOM_Manufacturer": "LGE",
+            "BOM_Manufacturer Part": "BC547C",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "fc217faf64a940a397750f89d4f53ff3"
+          }
+        ],
+        [
+          "1K",
+          2,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R1,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "SRD-5VDC-SL-C",
+          1,
+          "RELAY-SL-SRD",
+          "RELAY3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SONGLE",
+            "BOM_Manufacturer Part": "SRD-12VDC-SL-C",
+            "BOM_Supplier Part": "C30431",
+            "puuid": "edbc8ba0a0024c4ba46922fc267d35c2",
+            "uuid": "ee6ef103ed4bbe292b556d36588e703a"
+          }
+        ]
+      ],
+      "updateTime": 1625738629,
+      "createTime": 1625737452,
+      "histories": [],
+      "created_at": "2021-07-08 10:44:12",
+      "updated_at": "2021-07-08 11:03:49"
+    },
+    {
+      "uuid": "7ecffac040b8733b8355408c3b3dd73f",
+      "title": "Relé",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a7291ceaee5442a999df26c55c7e675d": 1,
+        "f6edbcf149fc455b8f2b77256dd2f4b0": 3,
+        "ed535c8fe56245c1a5180026fdcb7303": 1,
+        "fc217faf64a940a397750f89d4f53ff3": 1,
+        "e8eecceea29a496a8f21560ad16485c2": 1,
+        "ee6ef103ed4bbe292b556d36588e703a": 1,
+        "3721972c581d4f99b226effb1db7a790": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "ed535c8fe56245c1a5180026fdcb7303"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H1",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "LED-TH-3mm_R",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "3 pin connector big pad",
+          1,
+          "3 PIN CONNECTOR BIG PAD",
+          "P6",
+          {
+            "BOM_Supplier Part": "C48458",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "1.5T-3PHorizontal patch connector",
+            "puuid": "bd3f5a95481841e09364f254e87d63cf",
+            "uuid": "e8eecceea29a496a8f21560ad16485c2"
+          }
+        ],
+        [
+          "BC547C",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C713614",
+            "BOM_Manufacturer": "LGE",
+            "BOM_Manufacturer Part": "BC547C",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "fc217faf64a940a397750f89d4f53ff3"
+          }
+        ],
+        [
+          "1K",
+          2,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R1,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "SRD-5VDC-SL-C",
+          1,
+          "RELAY-SL-SRD",
+          "RELAY3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SONGLE",
+            "BOM_Manufacturer Part": "SRD-12VDC-SL-C",
+            "BOM_Supplier Part": "C30431",
+            "puuid": "edbc8ba0a0024c4ba46922fc267d35c2",
+            "uuid": "ee6ef103ed4bbe292b556d36588e703a"
+          }
+        ]
+      ],
+      "updateTime": 1625738186,
+      "createTime": 1625738186,
+      "histories": [],
+      "created_at": "2021-07-08 10:56:26",
+      "updated_at": "2021-07-08 10:56:26"
+    },
+    {
+      "uuid": "522c81083b61c13bd445fcb0742552b1",
+      "title": "Ethernet Shield",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "8X1F-H8.5",
+          5,
+          "1X08",
+          "ADCH,ADCL,COMMUNICATION,POWER,PWML",
+          {
+            "puuid": "975735978f7b4becb9c6a02a59c3ddb1",
+            "uuid": ""
+          }
+        ],
+        [
+          "0.1UF",
+          10,
+          "R0603-ROUND",
+          "C1,C3,C4,C5,C6,C7,C9,C12,C13,C15",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1UF",
+          2,
+          "R0603-ROUND",
+          "C2,C14",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "22PF",
+          3,
+          "R0603-ROUND",
+          "C8,C10,C11",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "M7",
+          1,
+          "SMB",
+          "D1",
+          {
+            "puuid": "7bb6777c50454668805bf72cb9681e3b",
+            "uuid": ""
+          }
+        ],
+        [
+          "CD1206-S01575",
+          2,
+          "MINIMELF",
+          "D2,D3",
+          {
+            "puuid": "e1cc586a4d754810843c9a2e4ce7e5f0",
+            "uuid": ""
+          }
+        ],
+        [
+          "MF-MSMF050-2 500MA",
+          1,
+          "L1812",
+          "F1",
+          {
+            "puuid": "8cb0386b7603406d9332ea7e6a68816d",
+            "uuid": ""
+          }
+        ],
+        [
+          "SJ",
+          2,
+          "SJ",
+          "GROUND,RESET-EN",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "NCP1117ST50T3G",
+          1,
+          "SOT223",
+          "IC1",
+          {
+            "puuid": "18800f7636494f0f8573150b0a5b0cfe",
+            "uuid": ""
+          }
+        ],
+        [
+          "LP2985-33DBVR",
+          1,
+          "SOT23-DBV",
+          "IC3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "3X2M",
+          2,
+          "2X03",
+          "ICSP,ICSP1",
+          {
+            "puuid": "7f5fa180e6d14230b27e8b3465237b46",
+            "uuid": ""
+          }
+        ],
+        [
+          "10X1F-H8.5",
+          1,
+          "1X10",
+          "JP1",
+          {
+            "puuid": "18c26a74d25c405da3ec650532de5bbd",
+            "uuid": ""
+          }
+        ],
+        [
+          "2X2M - NM",
+          1,
+          "2X02",
+          "JP2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "YELLOW",
+          3,
+          "CHIP-LED0805",
+          "L,RX,TX",
+          {
+            "puuid": "a6efeb54eecb4b1eb2796b6b04028e1a",
+            "uuid": ""
+          }
+        ],
+        [
+          "BLM21",
+          1,
+          "LP0805",
+          "L1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "CHIP-LED0805",
+          "ON",
+          {
+            "puuid": "a6efeb54eecb4b1eb2796b6b04028e1a",
+            "uuid": ""
+          }
+        ],
+        [
+          "47UF",
+          1,
+          "PANASONIC_D",
+          "PC1",
+          {
+            "puuid": "d96418c05b1c421e960d22862dcfda7b",
+            "uuid": ""
+          }
+        ],
+        [
+          "47U",
+          1,
+          "PANASONIC_D",
+          "PC2",
+          {
+            "puuid": "d96418c05b1c421e960d22862dcfda7b",
+            "uuid": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603-ROUND",
+          "R1,R3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "TS42031-160R-TR-7260",
+          1,
+          "TS42",
+          "RESET",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "FDN340P",
+          1,
+          "SOT-23",
+          "T1",
+          {
+            "puuid": "bebf453b0e64439b88070f64783c4e0a",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA2560",
+          1,
+          "TQFP100",
+          "U1",
+          {
+            "puuid": "f3d6a9aa8f6847fa870bd51e1d192e72",
+            "uuid": ""
+          }
+        ],
+        [
+          "POWERSUPPLY_DC21MM",
+          1,
+          "POWERSUPPLY_DC-21MM",
+          "U2",
+          {
+            "puuid": "36afc7e30c3d427d8c5b5301659b02f3",
+            "uuid": ""
+          }
+        ],
+        [
+          "ATMEGA16U2",
+          1,
+          "QFN-32",
+          "U5",
+          {
+            "puuid": "4b6657e67103494382b74261909792ee",
+            "uuid": ""
+          }
+        ],
+        [
+          "USB-B_TH",
+          1,
+          "PN61729",
+          "X1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "18X2F-H8.5",
+          1,
+          "2X18",
+          "XIO",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RESONATOR",
+          1,
+          "RESONATOR",
+          "Y1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "16MHZ",
+          1,
+          "QS",
+          "Y2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "CG0603MLC-05E",
+          2,
+          "CTCN0603",
+          "Z1,Z2",
+          {
+            "puuid": "215e5f304cb8498cbdc0556f8d668fb8",
+            "uuid": ""
+          }
+        ],
+        [
+          "LMV358IDGKR",
+          1,
+          "MSOP08",
+          "IC2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1K",
+          2,
+          "0603-ARC",
+          "RN1,RN7",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "10K",
+          2,
+          "0603-ARC",
+          "RN2,RN3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "22R",
+          1,
+          "0603-ARC",
+          "RN4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1u",
+          14,
+          "C1",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "2593d6b50646468aa0f4210426aa1d27",
+            "uuid": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED3MM",
+          "D1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "97ce2590a227457c91ada573d82c648e",
+            "uuid": ""
+          }
+        ],
+        [
+          "1m",
+          3,
+          "INDUCTOR-1206",
+          "L1,L2,L3",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "84c26c8755be4c4494ab48c9384f98fc",
+            "uuid": ""
+          }
+        ],
+        [
+          "SIP8",
+          1,
+          "HDR1X8",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "34d577eba5e3478a823f52d27ff22137",
+            "uuid": ""
+          }
+        ],
+        [
+          "XTALfast",
+          1,
+          "1X02",
+          "Q1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "632485ffe2624eb487e86c74c14a39e4",
+            "uuid": ""
+          }
+        ],
+        [
+          "1k",
+          7,
+          "R3",
+          "R1,R2,R3,R4,R5,R6,R7",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "e90532859c364560b2abf6f882e09c13",
+            "uuid": ""
+          }
+        ],
+        [
+          "MFRC522",
+          1,
+          "DIP",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "?",
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1N4148",
+          1,
+          "DO-35_BD2.0-L4.0-P8.00-D0.5-FD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "1N4148",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Supplier Part": "C14516",
+            "puuid": "07f65a035ec440c9ba8d8743498f47ca",
+            "uuid": "ed535c8fe56245c1a5180026fdcb7303"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H1",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "LED-TH-3mm_R",
+          1,
+          "LED-TH_BD3.0_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "204-10SDRD/S530-A3-L",
+            "BOM_Supplier Part": "C84774",
+            "BOM_Supplier": "LCSC",
+            "puuid": "bec79a4ea65a4f65ba290a03b598a762",
+            "uuid": "3721972c581d4f99b226effb1db7a790"
+          }
+        ],
+        [
+          "3 pin connector big pad",
+          1,
+          "3 PIN CONNECTOR BIG PAD",
+          "P6",
+          {
+            "BOM_Supplier Part": "C48458",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "1.5T-3PHorizontal patch connector",
+            "puuid": "bd3f5a95481841e09364f254e87d63cf",
+            "uuid": "e8eecceea29a496a8f21560ad16485c2"
+          }
+        ],
+        [
+          "BC547C",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C713614",
+            "BOM_Manufacturer": "LGE",
+            "BOM_Manufacturer Part": "BC547C",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "fc217faf64a940a397750f89d4f53ff3"
+          }
+        ],
+        [
+          "1K",
+          2,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R1,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-TH_BD3.3-L9.2-P13.20-D0.6",
+          "R3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433661",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1WS 2K2 F T/B A1",
+            "puuid": "6bee23a7647e459a9b7abbebab2e7bfc",
+            "uuid": "f6edbcf149fc455b8f2b77256dd2f4b0"
+          }
+        ],
+        [
+          "SRD-5VDC-SL-C",
+          1,
+          "RELAY-SL-SRD",
+          "RELAY3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SONGLE",
+            "BOM_Manufacturer Part": "SRD-12VDC-SL-C",
+            "BOM_Supplier Part": "C30431",
+            "puuid": "edbc8ba0a0024c4ba46922fc267d35c2",
+            "uuid": "ee6ef103ed4bbe292b556d36588e703a"
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C1,C5,C8,C9,C10,C11,C12,C15,C17",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "8.2pF",
+          2,
+          "C0603",
+          "C2,C3",
+          {
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": ""
+          }
+        ],
+        [
+          "1000v_1nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": ""
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0805",
+          "C6,C14,C18",
+          {
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": ""
+          }
+        ],
+        [
+          "10V_10uF",
+          1,
+          "AVX-A",
+          "C7",
+          {
+            "puuid": "3a6008d0828b4e9ebc1904b05b4dfd0b",
+            "uuid": ""
+          }
+        ],
+        [
+          "10V_22uF",
+          2,
+          "AVX-B",
+          "C13,C16",
+          {
+            "puuid": "f7b133193bfc460697b24406578a130d",
+            "uuid": ""
+          }
+        ],
+        [
+          "1uF",
+          6,
+          "C0805",
+          "C19,C20,C21,C22,C23,C24",
+          {
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": ""
+          }
+        ],
+        [
+          "M7",
+          1,
+          "D2010",
+          "D1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RED",
+          1,
+          "LED-0603",
+          "D2",
+          {
+            "puuid": "2ada8f4ae55543e0922c8ee62e571dd5",
+            "uuid": ""
+          }
+        ],
+        [
+          "1N4148WS",
+          1,
+          "SOD323",
+          "D3",
+          {
+            "puuid": "078f429fcbe342c080aa62900adde8f4",
+            "uuid": ""
+          }
+        ],
+        [
+          "TWIG-4P-2.0",
+          2,
+          "4P-2.0",
+          "I2C,UART",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "SD card holder",
+          1,
+          "9P-SMD-W-RING",
+          "J1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RJ45-MJ88-BX11-RVSL2",
+          1,
+          "RJ45-MJ88-BX11-RVSL2",
+          "J8",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "DNP",
+          1,
+          "2P-SMD-1.78X1.27",
+          "P1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "PAD-MARK",
+          2,
+          "ROUND-MARK-1.0",
+          "P2,P3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "DNP",
+          2,
+          "1P-6535MIL",
+          "PWDN,W!INT",
+          {
+            "puuid": "5ff7b5abacc445c9a8f3481950726fcb",
+            "uuid": ""
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "LED-0603",
+          "PWR",
+          {
+            "puuid": "2ada8f4ae55543e0922c8ee62e571dd5",
+            "uuid": ""
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R0603",
+          "R1",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "10K",
+          7,
+          "R0603",
+          "R2,R4,R5,R6,R7,R8,R9",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "47k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "1k",
+          6,
+          "R0603",
+          "R10,R16,R17,R18,R24,R25",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "3.3k",
+          5,
+          "R0603",
+          "R11,R12,R13,R15,R27",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "28.7K1%",
+          1,
+          "R0603",
+          "R14",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "75",
+          2,
+          "R0603",
+          "R19,R26",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "49.9_1%",
+          4,
+          "R0603",
+          "R20,R21,R22,R23",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "R*",
+          1,
+          "R0603",
+          "R28",
+          {
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": ""
+          }
+        ],
+        [
+          "BUTTON_4P_SMD",
+          1,
+          "4P-SMD-7X3.5X3.5",
+          "SW1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "ARDUINO",
+          1,
+          "ARDUINO",
+          "U1",
+          {
+            "puuid": "c554704952324a099b7a65ca188c3210",
+            "uuid": ""
+          }
+        ],
+        [
+          "CJ1117-3.3",
+          1,
+          "SOT-223",
+          "U3",
+          {
+            "puuid": "0b0f7e179ede420a8af2a98a7bbdc039",
+            "uuid": ""
+          }
+        ],
+        [
+          "HX1198NL",
+          1,
+          "SOIC16-9.53",
+          "U4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "W5200",
+          1,
+          "QFN48",
+          "U5",
+          {
+            "puuid": "c2c66946416a4bf4856d53189bbc5732",
+            "uuid": ""
+          }
+        ],
+        [
+          "25MHz",
+          1,
+          "2P-SMD-5X3.2",
+          "X1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "74VHC125PW",
+          2,
+          "TSSOP14",
+          "U2,U6",
+          {
+            "puuid": "01e8359db5f04c73a2cb6ac7acd3db69",
+            "uuid": ""
+          }
+        ]
+      ],
+      "updateTime": 1625817149,
+      "createTime": 1625743453,
+      "histories": [],
+      "created_at": "2021-07-08 12:24:13",
+      "updated_at": "2021-07-09 08:52:29"
+    }
+  ],
+  "sort": [
+    "d230a995c52d7bde4ff860d56a400cc3",
+    "1fba4395e05d45de76b8277c2363a9df",
+    "7ecffac040b8733b8355408c3b3dd73f",
+    "522c81083b61c13bd445fcb0742552b1"
+  ],
+  "title": "Catraca UControl 2021",
+  "foldername": "Catraca UControl 2021",
+  "schfilename": "Catraca UControl 2021.json",
+  "schfilemtime": 1626017309529
+}
